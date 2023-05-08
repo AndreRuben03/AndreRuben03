@@ -1,3 +1,3 @@
 - 🤵 Olá, sou André Rúben Pacheco Lima
-- 👨‍🎓 Atualmente estudo programação web no SENAC - Goiás
+- 👨‍🎓 Atualmente estou aprendendo desenvolvimento web no SENAC - Goiás
 - 💻 Estou aprendendo a desenvolver em HTML e CSS
