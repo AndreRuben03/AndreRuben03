@@ -1,4 +1,4 @@
-- 🤵 Olá, sou André Rúben Pacheco Lima
-- 👨‍🎓 Atualmente estou aprendendo desenvolvimento web no SENAC - Goiás
-- 💻 Estou aprendendo a desenvolver em HTML/CSS e BOOTSTRAP
-- 📩 Contato: andreruben03@gmail.com
+- 🤵 Hi, I'm André Rúben Pacheco Lima
+- 👨‍🎓 I'm currently learning web development at SENAC - Goiás
+- 💻 I'm learning to develop in HTML/CSS and BOOTSTRAP
+- 📩 Contact: andreruben03@gmail.com
